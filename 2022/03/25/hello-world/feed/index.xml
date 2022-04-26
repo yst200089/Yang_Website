@@ -9,7 +9,7 @@
 	<title>
 	〈網站第一篇文章〉的留言	</title>
 	<atom:link href="http://localhost/wordpress/2022/03/25/hello-world/feed/" rel="self" type="application/rss+xml" />
-	<link>./../index.html</link>
+	<link>https://yst200089.github.io/Yang_Website/2022/03/25/hello-world/</link>
 	<description>全新的繁體中文 WordPress 網站</description>
 	<lastBuildDate>Fri, 25 Mar 2022 06:20:39 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		留言者: WordPress 示範留言者		</title>
-		<link>./../index.html#comment-1</link>
+		<link>https://yst200089.github.io/Yang_Website/2022/03/25/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[WordPress 示範留言者]]></dc:creator>
 		<pubDate>Fri, 25 Mar 2022 06:20:39 +0000</pubDate>
-		<guid isPermaLink="false">./../../../../../index.html?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://yst200089.github.io/Yang_Website/?p=1#comment-1</guid>
 
 					<description><![CDATA[網站管理員你好，這是一則預留內容留言。
 如需開始審閱、編輯及刪除留言，請前往 [控制台] 的 [留言] 頁面進行必要的操作。

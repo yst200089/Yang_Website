@@ -10,7 +10,7 @@
 <channel>
 	<title>108213052 &#8211; Yang Website</title>
 	<atom:link href="http://localhost/wordpress/author/108213052/feed/" rel="self" type="application/rss+xml" />
-	<link>./../../../index.html</link>
+	<link>https://yst200089.github.io/Yang_Website</link>
 	<description>全新的繁體中文 WordPress 網站</description>
 	<lastBuildDate>Fri, 25 Mar 2022 06:20:39 +0000</lastBuildDate>
 	<language>zh-TW</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=5.9.3</generator>
 	<item>
 		<title>網站第一篇文章</title>
-		<link>./../../../2022/03/25/hello-world/index.html</link>
-					<comments>./../../../2022/03/25/hello-world/index.html#comments</comments>
+		<link>https://yst200089.github.io/Yang_Website/2022/03/25/hello-world/</link>
+					<comments>https://yst200089.github.io/Yang_Website/2022/03/25/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[108213052]]></dc:creator>
 		<pubDate>Fri, 25 Mar 2022 06:20:39 +0000</pubDate>
 				<category><![CDATA[未分類]]></category>
-		<guid isPermaLink="false">./../../../index.html?p=1</guid>
+		<guid isPermaLink="false">https://yst200089.github.io/Yang_Website/?p=1</guid>
 
 					<description><![CDATA[歡迎使用 WordPress。這是這個網站的第一篇文章，試試為這篇文章進行編輯或直接刪除，然後開始撰寫新文章！]]></description>
 										<content:encoded><![CDATA[
 <p>歡迎使用 WordPress。這是這個網站的第一篇文章，試試為這篇文章進行編輯或直接刪除，然後開始撰寫新文章！</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../2022/03/25/hello-world/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>https://yst200089.github.io/Yang_Website/2022/03/25/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
